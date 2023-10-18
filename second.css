@@ -21,4 +21,7 @@ width: 100px;height: 80px;border: 8px solid wheat;box-sizing: border-box; margin
 #mn{position: sticky; top:0px; background-color: red;}
 #id {width:20%; border: 10px solid black;}
 *{margin: 0px;}
+*{
+    margin: 0px;
+}
 
